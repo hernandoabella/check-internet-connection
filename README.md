@@ -1,1 +1,1 @@
-# verificar-conexion-de-internet
+# check-internet-connection
